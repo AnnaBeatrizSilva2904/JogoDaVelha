@@ -1,0 +1,17 @@
+configuração da conta local do GIT:
+git config --global user.name AnnaBeatrizSilva2904
+git config --global user.email annabeatryz2504@gmail.com
+
+---------------------------//---------------------------
+
+npx create-expo-app@latest jogo-da-velha --template blank
+
+Entrar na pasta do projeto:
+- cd jogo-da-velha
+
+Necessário instalar:
+- npx expo install react-dom react-native-web @expo/metro-runtime
+
+Para rodar na web:
+- npx expo start
+- clicar no W para rodar na web
